@@ -1,3 +1,5 @@
+![preview](./docs/powershell-social.png)
+
 # 🛠️ Dev Setup - Ambiente de Desenvolvimento Automatizado
 
 Este repositório contém um script PowerShell para configurar automaticamente um ambiente de desenvolvimento moderno e completo no Windows, usando o gerenciador de pacotes `winget`.
